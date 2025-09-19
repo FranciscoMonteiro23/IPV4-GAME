@@ -1,16 +1,25 @@
-# ipv4_jogo
 
-A new Flutter project.
+# IPv4 Game – Convert Numbers into Bases
 
-## Getting Started
+**Project:** Flutter Application  
+**Author:** Francisco Monteiro  
+**Technologies:** Flutter, Dart  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+IPv4 Game is an educational mobile application built with Flutter that helps users practice **number base conversions** (binary, octal, decimal, hexadecimal). The app provides an interactive and fun way to improve skills in working with different number systems, ideal for students and programming enthusiasts.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Features
+
+- Convert numbers between different bases (binary, octal, decimal, hexadecimal).  
+- Interactive quizzes and exercises to test your knowledge.  
+- Real-time feedback on answers.  
+- User-friendly interface designed with Flutter widgets.  
+
+---
+
+
