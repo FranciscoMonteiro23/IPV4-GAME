@@ -1,16 +1,21 @@
-# ipv4_jogo
+# IPv4 Jogo - Francisco Monteiro
 
-A new Flutter project.
+Este projeto foi desenvolvido no âmbito da faculdade, como parte do curso de **Desenvolvimento Web / Mobile**.  
+O objetivo é criar uma aplicação em **Flutter** que funcione como um jogo interativo para praticar e aprender conceitos de **endereçamento IPv4**.
 
-## Getting Started
+## 🚀 Funcionalidades
+- Interface simples e responsiva em Flutter  
+- Perguntas e desafios relacionados com endereços IPv4  
+- Feedback imediato ao utilizador  
+- Suporte para dispositivos Android e iOS  
 
-This project is a starting point for a Flutter application.
+## 📂 Estrutura do Projeto
+- `lib/` → código principal da aplicação  
+- `assets/` → recursos como imagens e ícones  
+- `pubspec.yaml` → configuração e dependências do projeto  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Como correr o projeto
+1. Certifica-te que tens o **Flutter** instalado → [Guia Oficial](https://docs.flutter.dev/get-started/install)  
+2. Clona o repositório:
+   ```bash
+   git clone https://github.com/teu-usuario/ipv4_jogo_francisco.git
