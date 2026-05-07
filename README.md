@@ -1,4 +1,4 @@
-# IPv4 Jogo - Francisco Monteiro
+# IPv4 Jogo 
 
 Este projeto foi desenvolvido no âmbito da faculdade, como parte do curso de **Desenvolvimento Web / Mobile**.  
 O objetivo é criar uma aplicação em **Flutter** que funcione como um jogo interativo para praticar e aprender conceitos de **endereçamento IPv4**.
